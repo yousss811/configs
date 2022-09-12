@@ -13,4 +13,7 @@
       - If a new profile is needed run *firefox -no-remote -ProfileManager* and create it in the opened firefox window
       - Type *about:support* into the URL and open profile directory
       - Delete everything in the profile directory and unzip the profile.zip to the directory or unzip the enterprise_policy.zip to the unedited directory (keep existing files)
-      - Start Firefox again. If you made a new profile, you can use it with *firefox -no-remote -P profilename*
+      - Start Firefox again. If you made a new profile, you can use it with *firefox -no-remote -P profilename* 
+  - TODO:
+      - Add youtube audio and youtube search engine extention to config file
+      - Add @g @y @w url shortcuts for searching google, youtube, and wikipedia 
