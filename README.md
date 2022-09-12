@@ -17,3 +17,4 @@
   - TODO:
       - Add youtube audio and youtube search engine extention to config file
       - Add @g @y @w url shortcuts for searching google, youtube, and wikipedia 
+      - Figure out whats about the privacy settings blocks duo (owned by cisco)
