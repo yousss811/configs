@@ -1,2 +1,16 @@
 # configs
 Personal config repository.
+
+Firefox: 
+  - mostly default privacy settings from ffprofile.com (9/12/22)
+  - resistFingerprinting enabled (may cause additional captchas and harder time completing them) 
+  - addons: 
+      - HTTPS Everywhere: HTTPS encryption automatically on all sites if supported
+      - Privacy Badger: Detects and blocks trackers
+      - uBlock Origin: Adblocker and Anti-tracking (more advanced than privacy badger but takes more advanced config to get better use out of it)
+      - Decentraleyes: Emulates CDN by intercepting requests, finding the required resource, and injecting it into the environment.
+  - installation: 
+      - If a new profile is needed run *firefox -no-remote -ProfileManager* and create it in the opened firefox window
+      - Type *about:support* into the URL and open profile directory
+      - Delete everything in the profile directory and unzip the profile.zip and enterprise_policy.zip to the directory
+      - Start Firefox again. If you made a new profile, you can use it with *firefox -no-remote -P profilename*
