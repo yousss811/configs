@@ -1,7 +1,7 @@
 # configs
-<h1>Personal config repository.</h1>
+##Personal config repository.
 
-<h2>Firefox: </h2>
+####Firefox: 
   - mostly default privacy settings from ffprofile.com (9/12/22)
   - resistFingerprinting enabled (may cause additional captchas and harder time completing them) 
   - addons: 
