@@ -20,6 +20,10 @@
       - Figure out whats about the privacy settings blocks duo (owned by cisco)
 
 #### Plasma KDE: 
-  - put in /usr/*/* to add for all users
-  - install icons locally at ~/.local/share/icons
-  - install splash screens locally at ~/.local/share/plasma/look-and-feel
+  - Appearence Settings
+    - put in /usr/*/* to add for all users
+    - install icons locally at ~/.local/share/icons
+    - install splash screens locally at ~/.local/share/plasma/look-and-feel
+    
+#### Terminal Emulator: 
+  - Alacritty (see Alacritty folder for config file, cheat sheet, liked themes(cyberpunk-neon active))
